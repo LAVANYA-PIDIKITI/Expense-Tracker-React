@@ -1,3 +1,21 @@
+<h1>Expense Tracker App</h1>
+This is a simple Expense Tracker web application built using React.js. The app allows users to track their income and expenses, view their balance, and add new transactions.
+
+Features
+<ul>
+<li>Header: The app features a header component that displays the title of the application.</li>
+
+<li>Balance: Users can see their current balance, which is updated based on their income and expense transactions.</li>
+
+<li>Income and Expense: The IncomeExpense component displays the total income and total expenses separately, helping users to keep track of their financial activity.</li>
+
+<li>Transaction History: Users can view a list of their past transactions, including the description and amount. Transactions are color-coded, making it easy to distinguish between income and expenses.</li>
+
+<li>New Transaction: Users can add new transactions by providing a description and the transaction amount. They can specify whether it's income or an expense. Transactions are dynamically updated in the history and balance sections.</li>
+</ul>
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
